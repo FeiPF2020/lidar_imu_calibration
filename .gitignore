@@ -1,3 +1,3 @@
 # LiDAR_IMU_Init
-src/LiDAR_IMU_Init/PCD/*
-src/LiDAR_IMU_Init/result/*
+src/LiDAR_IMU_Init/PCD/*.pcd
+src/LiDAR_IMU_Init/result/*.txt
